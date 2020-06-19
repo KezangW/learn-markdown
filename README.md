@@ -32,3 +32,5 @@ Some text goes here
 def hello():
   print("Hello world!")
 ```
+
+> This is a quote. Someone said something.
