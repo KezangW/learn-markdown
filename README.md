@@ -34,3 +34,6 @@ def hello():
 ```
 
 > This is a quote. Someone said something.
+
+[Google](https://www.google.com)
+[License](./LICENSE)
