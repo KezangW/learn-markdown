@@ -20,9 +20,11 @@ Some text goes here
 3. Item c
 
 #### Formatting
-*This is italics*
+*This is italics*<br>
 **This is bold text**
+
 ~~strike through~~
+
 `monospaced text`
 
 ```
